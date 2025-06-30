@@ -2,7 +2,9 @@
 
 ## 🚨 重要申明 | Important Notice
 
-由于本文目前正在评审中，本仓库中所有内容暂时不允许任何人以任何形式复用，直至本公告移除。感谢您的理解与配合！As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
+由于本文目前正在评审中，本仓库中所有内容暂时不允许任何人以任何形式复用，直至本公告移除。感谢您的理解与配合！
+
+As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
 ## 0. 智能体操作演示视频 | Videos of Agent Operations
 
