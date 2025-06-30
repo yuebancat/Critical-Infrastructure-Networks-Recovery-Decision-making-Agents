@@ -87,3 +87,5 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 ### 3.4 启动原型与更新工具库 | Operate Prototype & Update Tool Kit
 
 以下目录用于运行TF-ReAct原型及工具箱的更新：
+
+![image](https://github.com/user-attachments/assets/abb3c65a-22ac-4007-898a-bacd2182fb5f)
