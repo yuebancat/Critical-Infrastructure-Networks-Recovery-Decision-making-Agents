@@ -66,11 +66,11 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 请将27个CIN-RDM工具函数定义文件从原目录（{Codes for defining the functions of 27 CIN-RDM tools}）复制至目标运行目录（如：{Codes for running ReAct-based agents} 或 {Codes for running TF-ReAct-based agents}）。
 
-
+![Image](https://github.com/user-attachments/assets/1ce9f07f-055b-42d6-9f09-a2d1ecb5b6e0)
 
 导入函数示例如下图所示：
 
-
+![image](https://github.com/user-attachments/assets/92cd0fb9-8077-4440-b7c6-8c0be1cd9a5d)
 
 ### 3.2 运行ReAct模式智能体 | Run ReAct-based Agents
 
