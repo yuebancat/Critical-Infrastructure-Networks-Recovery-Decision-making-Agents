@@ -32,11 +32,13 @@ https://github.com/user-attachments/assets/c0e3da47-cf27-46c2-aef3-1f1fed1fe2aa
 
 ### 1.1 目的 | Objective
 
-本仓库旨在提供论文《……》所涉及的全部代码与数据，相关研究由中国的XXX大学和美国的XXX大学共同完成。This repository provides codes and data related to the paper entitled “……” developed by XXX University in China and XXX University in US.
+本仓库旨在提供论文《……》所涉及的全部代码与数据，相关研究由中国的XXX大学和美国的XXX大学共同完成。
+
+This repository provides codes and data related to the paper entitled “……” developed by XXX University in China and XXX University in US.
 
 ### 1.2 致谢 | Acknowledgements
 
-感谢以下开源项目对本研究的支持：Thanks to the contributors of these open-source projects:
+感谢以下开源项目对本研究的支持： | Thanks to the contributors of these open-source projects:
 
 LangChain-Agent (https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/tree/main/15-Agent)
 
@@ -52,7 +54,9 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 ## 2. 补充材料汇总 | Summary of Supplemental Materials
 
-如下表汇总了所有的补充材料（包括所有代码，CIN-RDM任务集，工具箱，及智能体运行结果）：The table below lists all supplemental materials, including all codes, CIN-RDM task set, tool kit, and results of agent operations.
+如下表汇总了所有的补充材料（包括所有代码，CIN-RDM任务集，工具箱，及智能体运行结果) 
+
+The table below lists all supplemental materials, including all codes, CIN-RDM task set, tool kit, and results of agent operations.
 
 ![image](https://github.com/user-attachments/assets/35717910-479b-4dcf-a15d-692797120f6a)
 
