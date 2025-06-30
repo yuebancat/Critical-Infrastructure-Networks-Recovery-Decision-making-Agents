@@ -53,9 +53,9 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 ## 2. 补充材料汇总 | Summary of Supplemental Materials
 
-如下表汇总了所有的补充材料（包括 S1 和 S2 中的所有表格）：The table below lists all supplemental materials, including all sheets in Tables S1 and S2.
+如下表汇总了所有的补充材料（包括表 S1 和 S2 中的具体信息）：The table below lists all supplemental materials, including all sheets in Tables S1 and S2.
 
-
+![image](https://github.com/user-attachments/assets/35717910-479b-4dcf-a15d-692797120f6a)
 
 ## 3. 如何复用本仓库 | How to Reuse This Repository
 
