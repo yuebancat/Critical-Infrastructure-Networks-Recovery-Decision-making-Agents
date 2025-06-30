@@ -1,6 +1,6 @@
-# 🚨 Large-Model-Driven Agents for Recovery Decision-Making of Critical Infrastructure Networks
+# Large-Model-Driven Agents for Recovery Decision-Making of Critical Infrastructure Networks
 
-## ⚠️ 重要通知 | Important Notice
+## 🚨 重要申明 | Important Notice
 
 由于本文目前正在评审中，本仓库中所有内容暂时不允许任何人以任何形式复用，直至本公告移除。感谢您的理解与配合！As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
