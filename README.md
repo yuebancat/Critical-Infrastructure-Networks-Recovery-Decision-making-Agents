@@ -8,37 +8,35 @@
 
 ### 0.1 自主开发原型的运行 | Operation of the Developed Prototype
 
-开发的TS-ReAct智能体原型运行片段：视频链接（片段）
+在开发的TS-ReAct智能体原型上进行CIN-RDM工具箱更新:
 
-更新工具库的片段：视频链接（片段）
+https://github.com/user-attachments/assets/0e40b326-c7a1-40a1-87a8-467a318b6105
 
-完整视频：完整视频链接
+### 0.2 基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
 
-### 0.2 基于ReAct模式的智能体运行 | Agents Based on ReAct Pattern
-
-由GPT-4o、GPT-4、GPT-3.5 Turbo驱动的ReAct智能体：视频片段完整视频
+基于ReAct架构，由GPT-4o、GPT-4驱动的智能体运行片段
 
 https://github.com/user-attachments/assets/e18fd36c-745d-4c9f-8300-1b541b5b4082
 
-Qwen2.5、Deepseek-V3、Gemma-2、Llama-3.1、Mixtral MoE驱动的ReAct智能体：视频片段完整视频
+基于ReAct架构，由Qwen2.5、Deepseek-V3、Llama-3.1、Mixtral MoE驱动的智能体运行片段
 
 https://github.com/user-attachments/assets/4cc1c327-58fd-49ff-ac4d-e28c887ebd8d
 
-### 0.3 基于TS-ReAct模式的智能体运行 | Agents Based on TS-ReAct Pattern
+### 0.3 基于TF-ReAct架构的智能体运行 | Agents Based on TF-ReAct Framework
 
-TS agent运行片段：视频片段完整视频
+TF智能体进行工具选择运行片段
 
 https://github.com/user-attachments/assets/86d73b6c-09e2-4b21-bb96-01110a4d3061
 
-ReAct agent运行片段：视频片段完整视频
+ReAct智能体进行工具执行运行片段
 
 https://github.com/user-attachments/assets/c0e3da47-cf27-46c2-aef3-1f1fed1fe2aa
 
 ## 1. 简介 | Introduction
 
-### 1.1 研究目的 | Objective
+### 1.1 目的 | Objective
 
-本仓库旨在提供论文《……》所涉及的全部代码与数据，相关研究由中国 XXX 大学开发。This repository provides codes and data related to the paper entitled “……” developed by XXX University in China.
+本仓库旨在提供论文《……》所涉及的全部代码与数据，相关研究由中国的XXX大学和美国的XXX大学共同完成。This repository provides codes and data related to the paper entitled “……” developed by XXX University in China and XXX University in US.
 
 ### 1.2 致谢 | Acknowledgements
 
@@ -64,9 +62,9 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 ## 3. 如何复用本仓库 | How to Reuse This Repository
 
-### 3.1 导入IIN恢复工具函数 | Import IIN Recovery Tool Functions
+### 3.1 导入CIN-RDM工具函数 | Import CIN-RDM Tool Functions
 
-请将39个IIN恢复工具函数定义文件从原目录（{Codes for defining the functions of 39 IIN recovery tools}）复制至目标运行目录（如：{Codes for running ReAct-based agents} 或 {Codes for running TS-ReAct-based agents}）。
+请将27个CIN-RDM工具函数定义文件从原目录（{Codes for defining the functions of 27 CIN-RDM tools}）复制至目标运行目录（如：{Codes for running ReAct-based agents} 或 {Codes for running TF-ReAct-based agents}）。
 
 
 
@@ -76,16 +74,16 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 ### 3.2 运行ReAct模式智能体 | Run ReAct-based Agents
 
-以下目录包含运行基于8种LLMs的ReAct智能体的全部代码：
+以下目录包含运行基于6种LLMs的ReAct智能体的全部代码：
 
 
 
-### 3.3 运行TS-ReAct模式智能体 | Run TS-ReAct-based Agents
+### 3.3 运行TF-ReAct模式智能体 | Run TF-ReAct-based Agents
 
-以下目录包含运行基于8种LLMs的TS-ReAct智能体的全部代码：
+以下目录包含运行基于6种LLMs的TF-ReAct智能体的全部代码：
 
 
 
 ### 3.4 启动原型与更新工具库 | Operate Prototype & Update Tool Kit
 
-以下目录用于运行TS-ReAct原型及工具库的更新：
+以下目录用于运行TF-ReAct原型及工具箱的更新：
