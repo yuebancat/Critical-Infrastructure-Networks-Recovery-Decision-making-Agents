@@ -18,7 +18,7 @@
 
 由GPT-4o、GPT-4、GPT-3.5 Turbo驱动的ReAct智能体：视频片段完整视频
 
-
+https://github.com/user-attachments/assets/e18fd36c-745d-4c9f-8300-1b541b5b4082
 
 Qwen2.5、Deepseek-V3、Gemma-2、Llama-3.1、Mixtral MoE驱动的ReAct智能体：视频片段完整视频
 
