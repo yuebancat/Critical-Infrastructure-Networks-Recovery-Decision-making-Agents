@@ -74,15 +74,15 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 ### 3.2 运行ReAct模式智能体 | Run ReAct-based Agents
 
-以下目录包含运行基于6种LLMs的ReAct智能体的全部代码：
+以下目录包含运行基于6种LMs的ReAct智能体的代码：
 
 ![image](https://github.com/user-attachments/assets/1c355e14-21df-4c29-b776-e4d1f91945dc)
 
 ### 3.3 运行TF-ReAct模式智能体 | Run TF-ReAct-based Agents
 
-以下目录包含运行基于6种LLMs的TF-ReAct智能体的全部代码：
+以下目录包含运行基于6种LMs的TF-ReAct智能体的代码：
 
-
+![image](https://github.com/user-attachments/assets/6988b845-80ce-4457-8148-283246993a1d)
 
 ### 3.4 启动原型与更新工具库 | Operate Prototype & Update Tool Kit
 
