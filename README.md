@@ -12,7 +12,7 @@ As the paper is under review, all contents in this repository are currently not 
 
 在开发的TS-ReAct智能体原型上进行CIN-RDM工具箱更新:
 
-https://github.com/user-attachments/assets/0e40b326-c7a1-40a1-87a8-467a318b6105
+![image](https://github.com/user-attachments/assets/ec2a4692-2600-483e-a6cc-c47444b9e0d6)
 
 ### 0.2 基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
 
