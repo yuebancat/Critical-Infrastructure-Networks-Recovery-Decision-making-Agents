@@ -17,7 +17,9 @@
 ### 0.2 基于ReAct模式的智能体运行 | Agents Based on ReAct Pattern
 
 由GPT-4o、GPT-4、GPT-3.5 Turbo驱动的ReAct智能体：视频片段完整视频
+
 https://github.com/user-attachments/assets/c0e3da47-cf27-46c2-aef3-1f1fed1fe2aa
+
 Qwen2.5、Deepseek-V3、Gemma-2、Llama-3.1、Mixtral MoE驱动的ReAct智能体：视频片段完整视频
 
 ### 0.3 基于TS-ReAct模式的智能体运行 | Agents Based on TS-ReAct Pattern
