@@ -5,9 +5,9 @@
 
 As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
-## 0. 智能体操作演示视频 | Videos of Agent Operations
+## 0. 演示图片和视频 | Figures and Videos
 
-### 0.1 基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
+### 0.1 CIN-RDM智能体运行：基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
 
 基于ReAct架构，由GPT-4o、GPT-4驱动的智能体运行片段
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/e18fd36c-745d-4c9f-8300-1b541b5b4082
 
 https://github.com/user-attachments/assets/4cc1c327-58fd-49ff-ac4d-e28c887ebd8d
 
-### 0.2 基于TF-ReAct架构的智能体运行 | Agents Based on TF-ReAct Framework
+### 0.2 CIN-RDM智能体运行：基于TF-ReAct架构的智能体运行 | Agents Based on TF-ReAct Framework
 
 TF智能体进行工具选择运行片段
 
@@ -27,6 +27,9 @@ ReAct智能体进行工具执行运行片段
 
 https://github.com/user-attachments/assets/c0e3da47-cf27-46c2-aef3-1f1fed1fe2aa
 
+### 0.3 CIN-RDM智能体执行任务是否成功判定演示 | Determining Whether the CIN-RDM Agent successfully Completed the Task：A Demonstration
+本研究复现的每个CIN-RDM工具如果成功运行，均会生成一个特定文件作为输出并存储。因此将“是否成功生成目标文件”作为期望结果的判定标准。
+<img width="1787" height="1125" alt="image" src="https://github.com/user-attachments/assets/68dbe7b4-bc22-48f1-b670-f1bbc1da30bc" />
 
 ## 1. 简介 | Introduction
 
@@ -89,3 +92,5 @@ The table below lists all supplemental materials, including all codes, CIN-RDM t
 以下目录用于运行TF-ReAct原型及工具箱的更新：
 
 ![image](https://github.com/user-attachments/assets/abb3c65a-22ac-4007-898a-bacd2182fb5f)
+
+
