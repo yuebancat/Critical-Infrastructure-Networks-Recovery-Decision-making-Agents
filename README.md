@@ -5,6 +5,9 @@
 
 As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
+所有补充材料的清单如下：
+<img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/7dc347d0-5433-4f63-9824-aa17fba8eb92" />
+
 ## 0. 演示图片和视频 | Figures and Videos
 
 ### 0.1 CIN-RDM智能体运行：基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
