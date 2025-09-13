@@ -6,7 +6,8 @@
 As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
 所有补充材料的清单如下：
-<img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/7dc347d0-5433-4f63-9824-aa17fba8eb92" />
+<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/186f2715-f2da-46e7-ae31-de97934766df" />
+
 
 ## 0. 演示图片和视频 | Figures and Videos
 
