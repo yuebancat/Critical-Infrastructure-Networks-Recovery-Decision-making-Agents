@@ -5,10 +5,6 @@
 
 As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
-所有补充材料的清单如下：
-<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/186f2715-f2da-46e7-ae31-de97934766df" />
-
-
 ## 0. 演示图片和视频 | Figures and Videos
 
 ### 0.1 CIN-RDM智能体运行：基于ReAct架构的智能体运行 | Agents Based on ReAct Framework
@@ -65,7 +61,7 @@ LLMs: Gemma-2 (https://huggingface.co/google/gemma-2-27b-it), Llama3.1 (https://
 
 The table below lists all supplemental materials, including all codes, CIN-RDM task set, tool kit, and results of agent operations.
 
-![image](https://github.com/user-attachments/assets/35717910-479b-4dcf-a15d-692797120f6a)
+<img width="1302" height="776" alt="image" src="https://github.com/user-attachments/assets/19c22e2a-6ab3-4dfd-92d6-87b8778a7724" />
 
 ## 3. 如何复用本仓库 | How to Reuse This Repository
 
