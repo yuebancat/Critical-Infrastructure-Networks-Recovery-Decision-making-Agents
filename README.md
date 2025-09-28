@@ -1,5 +1,6 @@
 # 关键基础设施网络恢复决策（CIN-RDM）智能体 | Critical Infrastructure Networks Recovery Decision-making (CIN-RDM) Agents
 CIN-RDM智能体原型系统
+<img width="10000" height="5779" alt="学报-Fig 7new(1)" src="https://github.com/user-attachments/assets/5e51280f-6107-4f80-a181-153b19fdfa06" />
 
 ## 🚨 重要申明 | Important Notice
 
