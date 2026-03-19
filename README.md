@@ -2,11 +2,6 @@
 CIN-RDM智能体原型系统
 <img width="10000" height="5779" alt="学报-Fig 7new(1)" src="https://github.com/user-attachments/assets/5e51280f-6107-4f80-a181-153b19fdfa06" />
 
-## 🚨 重要申明 | Important Notice
-
-由于本文目前正在评审中，该数据库中所有内容暂时不允许任何人以任何形式复用，直至本公告移除。感谢您的理解与配合！
-
-As the paper is under review, all contents in this repository are currently not permitted for reuse by anyone until this announcement is removed. Thank you for your understanding!
 
 ## 0. 演示图片和视频 | Figures and Videos
 
